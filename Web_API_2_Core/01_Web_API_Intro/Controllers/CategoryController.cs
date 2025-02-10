@@ -31,6 +31,7 @@ namespace _01_Web_API_Intro.Controllers
         [ProducesResponseType(200, Type = typeof(Category))]
         [ProducesResponseType(400)] // Bad request
         [ProducesResponseType(404)] // Not found
+        [ProducesResponseType(200)]
         public IActionResult GetById(int id)
         {
             if (id <= 0)

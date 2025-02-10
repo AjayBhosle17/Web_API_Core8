@@ -74,8 +74,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Migrations\\20250214095204_InitialDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T09:52:05.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T09:52:05.024Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T07:03:38.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T07:03:38.384Z"
             },
             {
               "$type": "Document",
@@ -98,7 +96,7 @@
               "RelativeDocumentMoniker": "01_Web_API_Intro\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "01_Web_API_Intro\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T08:40:22.697Z",
               "EditorCaption": ""
@@ -113,8 +111,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwBYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T07:00:04.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T07:00:04.534Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Models\\CoreDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:15:47.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T08:15:47.858Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:14:02.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T08:14:02.447Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T07:06:32.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T07:06:32.526Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T06:56:18.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T06:56:18.997Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T06:51:54.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T06:51:54.356Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "01_Web_API_Intro\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T06:55:39.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T06:55:39.115Z"
             }
           ]
         }
