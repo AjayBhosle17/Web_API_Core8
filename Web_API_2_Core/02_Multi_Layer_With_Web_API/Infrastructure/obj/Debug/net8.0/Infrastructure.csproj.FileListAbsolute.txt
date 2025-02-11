@@ -10,3 +10,7 @@ D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infr
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\bin\Debug\net8.0\Data.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\bin\Debug\net8.0\Data.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

@@ -1,5 +1,8 @@
+using Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Services.MyDependecyInjection;
+using Services.MyMappingProfile;
 
 
 namespace Web_API
@@ -19,6 +22,17 @@ namespace Web_API
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("MultiLayer"));
             });
+
+
+
+            // here add automapper dependency
+
+            builder.Services.AddAutoMapper(typeof(MyMappingProfile));
+
+
+            // add mulitple in this file
+            MydependencyRegister.RegisterDependencies(builder.Services);    
+
 
             var app = builder.Build();
 

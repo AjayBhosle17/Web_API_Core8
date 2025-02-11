@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FWkVUuOL3n8=",
+  "dgSpecHash": "pY8kjFnKDwg=",
   "success": true,
   "projectFilePath": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
