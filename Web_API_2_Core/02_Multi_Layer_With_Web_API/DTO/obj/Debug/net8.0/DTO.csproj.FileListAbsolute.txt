@@ -1,0 +1,12 @@
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\bin\Debug\net8.0\DTO.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\DTO\obj\Debug\net8.0\ref\DTO.dll
