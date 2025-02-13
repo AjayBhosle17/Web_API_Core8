@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

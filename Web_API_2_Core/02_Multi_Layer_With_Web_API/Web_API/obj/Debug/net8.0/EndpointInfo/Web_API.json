@@ -208,6 +208,27 @@
         }
       }
     },
+    "/api/Category/api/controller/ProductByCAtegoryName": {
+      "get": {
+        "tags": [
+          "Category"
+        ],
+        "parameters": [
+          {
+            "name": "str",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -251,6 +272,10 @@
   "components": {
     "schemas": {
       "CategoryModel": {
+        "required": [
+          "name",
+          "order"
+        ],
         "type": "object",
         "properties": {
           "id": {
@@ -258,10 +283,12 @@
             "format": "int32"
           },
           "name": {
-            "type": "string",
-            "nullable": true
+            "minLength": 2,
+            "type": "string"
           },
           "order": {
+            "maximum": 500,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           }

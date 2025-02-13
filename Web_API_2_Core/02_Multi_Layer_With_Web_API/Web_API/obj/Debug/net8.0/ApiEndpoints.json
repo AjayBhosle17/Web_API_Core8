@@ -145,6 +145,22 @@
     ]
   },
   {
+    "ContainingType": "Web_API.Controllers.CategoryController",
+    "Method": "GetProductByCategoryName",
+    "RelativePath": "api/Category/api/controller/ProductByCAtegoryName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "str",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Web_API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

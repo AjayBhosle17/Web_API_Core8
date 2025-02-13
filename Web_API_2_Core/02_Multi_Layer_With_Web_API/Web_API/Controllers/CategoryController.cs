@@ -119,5 +119,14 @@ namespace Web_API.Controllers
 
         }
 
+        [HttpGet]
+        [Route("api/controller/ProductByCAtegoryName")]
+
+        public async Task<IActionResult> GetProductByCategoryName(string str)
+        {
+            var data = str;
+            return Ok(data);
+
+        }
     }
 }
