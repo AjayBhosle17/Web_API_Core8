@@ -28,6 +28,22 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Coding2/Ajay V\#/Web_API_Core2/Web_API_2_Core/02_Multi_Layer_With_Web_API/WEB_UI_Client/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding2/Ajay V\#/Web_API_Core2/Web_API_2_Core/02_Multi_Layer_With_Web_API/WEB_UI_Client/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding2/Ajay V\#/Web_API_Core2/Web_API_2_Core/02_Multi_Layer_With_Web_API/WEB_UI_Client/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding2/Ajay V\#/Web_API_Core2/Web_API_2_Core/02_Multi_Layer_With_Web_API/WEB_UI_Client/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Coding2/Ajay V\#/Web_API_Core2/Web_API_2_Core/02_Multi_Layer_With_Web_API/WEB_UI_Client/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
