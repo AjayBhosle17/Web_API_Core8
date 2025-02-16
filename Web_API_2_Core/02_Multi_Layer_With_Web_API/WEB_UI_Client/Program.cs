@@ -1,3 +1,5 @@
+using Microsoft.Extensions.DependencyInjection;
+
 namespace WEB_UI_Client
 {
     public class Program
@@ -8,6 +10,26 @@ namespace WEB_UI_Client
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+           
+
+            builder.Services.AddScoped<IHttpCLientService, HttpClientService>();
+
+            builder.Services.AddHttpClient<HttpClientService>(client =>
+            {
+                client.BaseAddress = new Uri(builder.Configuration.GetSection("ApiUrl").Value);
+            });
+
+
+            // Add CORS policy
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder => builder.AllowAnyOrigin()
+                                      .AllowAnyMethod()  // ? Allows DELETE, PUT, POST, GET, etc.
+                                      .AllowAnyHeader());
+            });
+
 
             var app = builder.Build();
 
@@ -23,6 +45,8 @@ namespace WEB_UI_Client
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseCors("AllowAll"); // Apply CORS Policy
 
             app.UseAuthorization();
 

@@ -21,8 +21,17 @@ namespace Services.MyDependecyInjection
             services.AddScoped<ICategoryService, CategoryService>();
 
 
+            services.AddScoped<IProductRepository , ProductRepository>();
+            services.AddScoped<IProductService , ProductService>();
+
+
             // here we can add multiple
 
+            services.AddMemoryCache();
+
+
+            services.AddScoped<IAccountRepository , AccountRepository>();
+            services.AddScoped<IAccountService , AccountService>();
         }
     }
 

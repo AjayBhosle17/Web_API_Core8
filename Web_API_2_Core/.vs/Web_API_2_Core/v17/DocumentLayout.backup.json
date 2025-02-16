@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\infrastructure\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,46 +23,6 @@
       "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\dto\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|solutionrelative:02_multi_layer_with_web_api\\dto\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_ui_client\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A222466D-6991-422B-B101-164C13CA79C2}|02_Multi_Layer_With_Web_API\\WEB_UI_Client\\WEB_UI_Client.csproj|solutionrelative:02_multi_layer_with_web_api\\web_ui_client\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -63,96 +31,56 @@
       "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\infrastructure\\implementation\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|solutionrelative:02_multi_layer_with_web_api\\infrastructure\\implementation\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\infrastructure\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|solutionrelative:02_multi_layer_with_web_api\\infrastructure\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\infrastructure\\interface\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E568A022-F16B-4A90-A8EA-FDAAA957BA81}|02_Multi_Layer_With_Web_API\\Infrastructure\\Infrastructure.csproj|solutionrelative:02_multi_layer_with_web_api\\infrastructure\\interface\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\dto\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|solutionrelative:02_multi_layer_with_web_api\\dto\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\mydependecyinjection\\mydependencyregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\mydependecyinjection\\mydependencyregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|solutionrelative:02_multi_layer_with_web_api\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\mymappingprofile\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\mymappingprofile\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D7973-26DD-48B1-A097-4BAA31D80BD4}|02_Multi_Layer_With_Web_API\\Services\\Services.csproj|solutionrelative:02_multi_layer_with_web_api\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\migrations\\20250215060124_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\migrations\\20250215060124_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\dto\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43112D9-3587-4843-9894-F8E1AA0057E5}|02_Multi_Layer_With_Web_API\\DTO\\DTO.csproj|solutionrelative:02_multi_layer_with_web_api\\dto\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\models\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\models\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\web_api\\web_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{79C45BC3-46E3-49F0-B0DB-B6B706367A45}|02_Multi_Layer_With_Web_API\\Web_API\\Web_API.csproj|solutionrelative:02_multi_layer_with_web_api\\web_api\\web_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\migrations\\20250214095204_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\migrations\\20250214095204_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\01_web_api_intro\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36253A07-7168-4E50-9DF4-8001139412CB}|01_Web_API_Intro\\01_Web_API_Intro.csproj|solutionrelative:01_web_api_intro\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|d:\\coding2\\ajay v#\\web_api_core2\\web_api_2_core\\02_multi_layer_with_web_api\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694EC5B-68D9-4570-ABBD-BC9FC1758577}|02_Multi_Layer_With_Web_API\\Data\\Data.csproj|solutionrelative:02_multi_layer_with_web_api\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,468 +106,263 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAuwLkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:46:43.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T04:46:23.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\appsettings.json",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\appsettings.json",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-15T12:45:40.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T07:18:52.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\CategoryRepository.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\CategoryRepository.cs",
               "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA/wCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:08:45.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Models\\Category.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Models\\Category.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Models\\Category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:47:30.383Z",
+              "WhenOpened": "2025-02-24T11:28:17.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T06:15:11.721Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:17:36.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T06:16:00.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Details.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Details.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Details.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T05:09:31.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryModel.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\CategoryModel.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\DTO\\CategoryModel.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\CategoryModel.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\DTO\\CategoryModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:52:23.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Program.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Program.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:18:48.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T13:34:24.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\WEB_UI_Client\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T13:16:31.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:17:05.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T12:58:51.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Properties\\launchSettings.json",
               "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-15T09:49:12.693Z"
+              "WhenOpened": "2025-02-24T12:18:43.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Implementation\\CategoryService.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\Implementation\\CategoryService.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Implementation\\CategoryService.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\Implementation\\CategoryService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T12:15:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwGgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:42:29.496Z"
+              "WhenOpened": "2025-02-24T12:08:19.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\ICategoryRepository.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:03:25.349Z"
+              "WhenOpened": "2025-02-24T11:43:20.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "MydependencyRegister.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\MyDependecyInjection\\MydependencyRegister.cs",
               "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\MyDependecyInjection\\MydependencyRegister.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\MyDependecyInjection\\MydependencyRegister.cs",
               "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\MyDependecyInjection\\MydependencyRegister.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:48:29.625Z"
+              "WhenOpened": "2025-02-24T11:26:48.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\LoginModel.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\DTO\\LoginModel.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\LoginModel.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\DTO\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:21:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MyMappingProfile.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\MyMappingProfile\\MyMappingProfile.cs",
               "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\MyMappingProfile\\MyMappingProfile.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\MyMappingProfile\\MyMappingProfile.cs",
               "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\MyMappingProfile\\MyMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:45:52.082Z"
+              "WhenOpened": "2025-02-24T11:13:52.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Interface\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\Interface\\ICategoryService.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Interface\\ICategoryService.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\Interface\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Implementation\\AccountService.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\Implementation\\AccountService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Implementation\\AccountService.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\Implementation\\AccountService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:38:23.901Z"
+              "WhenOpened": "2025-02-24T11:08:07.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250215060124_InitialDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250215060124_InitialDB.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250215060124_InitialDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250215060124_InitialDB.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250215060124_InitialDB.cs",
+              "DocumentIndex": 10,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Interface\\IAccountService.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Services\\Interface\\IAccountService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Services\\Interface\\IAccountService.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Services\\Interface\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:06:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\AccountRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\AccountRepository.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Infrastructure\\Implementation\\AccountRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:42:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\IAccountRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\IAccountRepository.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Infrastructure\\Interface\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:39:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\UserModel.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\DTO\\UserModel.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\UserModel.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\DTO\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:38:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:36:54.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250224103246_AuthenticationAdded.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Migrations\\20250224103246_AuthenticationAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:01:24.916Z"
+              "WhenOpened": "2025-02-24T10:32:46.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Data.csproj",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Data.csproj",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Data.csproj",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Data.csproj",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T13:27:50.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\ProductModel.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\DTO\\ProductModel.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\DTO\\ProductModel.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\DTO\\ProductModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:52:41.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "CoreDbContext.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\CoreDbContext.cs",
               "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\CoreDbContext.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\CoreDbContext.cs",
               "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\CoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:47:12.188Z"
+              "WhenOpened": "2025-02-24T10:23:31.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Program.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Program.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\UserRole.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T07:00:04.534Z"
+              "WhenOpened": "2025-02-24T10:08:14.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Product.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Product.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Role.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Role.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:42:52.719Z"
+              "WhenOpened": "2025-02-24T10:06:47.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Category.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\Category.cs",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Data\\Entities\\User.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:42:13.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\appsettings.json",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\appsettings.json",
-              "RelativeToolTip": "01_Web_API_Intro\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T07:03:38.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Web_API.http",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Web_API.http",
-              "RelativeDocumentMoniker": "02_Multi_Layer_With_Web_API\\Web_API\\Web_API.http",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\02_Multi_Layer_With_Web_API\\Web_API\\Web_API.http",
-              "RelativeToolTip": "02_Multi_Layer_With_Web_API\\Web_API\\Web_API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-14T12:41:30.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CoreDBContext.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Models\\CoreDBContext.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Models\\CoreDBContext.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Models\\CoreDBContext.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Models\\CoreDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:15:47.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20250214095204_InitialDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Migrations\\20250214095204_InitialDB.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Migrations\\20250214095204_InitialDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Migrations\\20250214095204_InitialDB.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Migrations\\20250214095204_InitialDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T09:52:05.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:40:22.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Models\\Category.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Models\\Category.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:14:02.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\appsettings.Development.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\appsettings.Development.json",
-              "RelativeToolTip": "01_Web_API_Intro\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T07:06:32.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\WeatherForecast.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\WeatherForecast.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T06:56:18.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Properties\\launchSettings.json",
-              "RelativeToolTip": "01_Web_API_Intro\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T06:51:54.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "01_Web_API_Intro\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\Web_API_Core2\\Web_API_2_Core\\01_Web_API_Intro\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "01_Web_API_Intro\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T06:55:39.115Z"
+              "WhenOpened": "2025-02-24T10:02:51.01Z",
+              "EditorCaption": ""
             }
           ]
         }

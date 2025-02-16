@@ -14,6 +14,9 @@ namespace Services.MyMappingProfile
         public MyMappingProfile()
         {
             CreateMap<Category,CategoryModel>().ReverseMap();
+            CreateMap<Product,ProductModel>().ReverseMap();
+       
+            CreateMap<User,UserModel>().ReverseMap();
         }
     }
 }

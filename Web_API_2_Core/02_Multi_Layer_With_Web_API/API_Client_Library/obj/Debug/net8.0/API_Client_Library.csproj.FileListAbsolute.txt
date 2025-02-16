@@ -1,0 +1,13 @@
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\bin\Debug\net8.0\API_Client_Library.deps.json
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\bin\Debug\net8.0\API_Client_Library.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\bin\Debug\net8.0\API_Client_Library.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.AssemblyInfo.cs
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.sourcelink.json
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\refint\API_Client_Library.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\ref\API_Client_Library.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\API_Client_Library\obj\Debug\net8.0\API_Client_Library.csproj.AssemblyReference.cache

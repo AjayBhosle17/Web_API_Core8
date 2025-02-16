@@ -230,3 +230,17 @@ D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\obj\Debug\net8.0\WEB_UI_Client.pdb
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\obj\Debug\net8.0\WEB_UI_Client.genruntimeconfig.cache
 D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\obj\Debug\net8.0\ref\WEB_UI_Client.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\API_Client_Library.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\API_Client_Library.pdb
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Coding2\Ajay V#\Web_API_Core2\Web_API_2_Core\02_Multi_Layer_With_Web_API\WEB_UI_Client\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

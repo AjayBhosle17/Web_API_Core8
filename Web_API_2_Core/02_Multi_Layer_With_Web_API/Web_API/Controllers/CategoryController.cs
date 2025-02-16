@@ -1,21 +1,25 @@
 ﻿using DTO;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Services.Implementation;
+using Microsoft.Extensions.Caching.Memory;
 using Services.Interface;
+
 
 namespace Web_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoryController : ControllerBase
     {
 
         ICategoryService _service;
+        IMemoryCache _cache; 
 
-        public CategoryController(ICategoryService service)
+        public CategoryController(ICategoryService service , IMemoryCache cache)
         {
             _service = service;
+            _cache = cache;
         }
 
         [HttpGet]
@@ -23,6 +27,7 @@ namespace Web_API.Controllers
         
         public async Task<IActionResult> GetAll()
         {
+          
            var categories = await _service.GetAll();
             return Ok(categories);
         }
@@ -65,12 +70,10 @@ namespace Web_API.Controllers
         }
 
 
-        [HttpPut]
+        [HttpPut("{id:int}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
-
-
-        public async Task<IActionResult> Update(int? id,CategoryModel model)
+        public async Task<IActionResult> Update(CategoryModel model,int? id)
         {
             if (id > 0)
             {
@@ -88,36 +91,29 @@ namespace Web_API.Controllers
             return BadRequest();
         }
 
-        [HttpDelete]
+
+        [HttpDelete("{id:int}")]
+
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
-
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int id)
         {
-            if (id > 0)
+            if (id <= 0)
             {
-                try
-                {
-                    var category = await _service.GetById(id);
-
-                    if (category != null)
-                    {
-                        _service.Delete(id);
-                        return Ok();
-                    }
-                    else
-                    {
-                        return NotFound();
-                    }
-                }
-                catch
-                {
-                    return BadRequest();
-                }
+                return BadRequest("Invalid ID.");
             }
-            return BadRequest();
 
+            var product = await _service.GetById(id);
+            if (product == null)
+            {
+                return NotFound("Product does not exist.");
+            }
+
+            await _service.Delete(id);
+
+            return Ok("Product deleted successfully." );
         }
+
 
         [HttpGet]
         [Route("api/controller/ProductByCAtegoryName")]

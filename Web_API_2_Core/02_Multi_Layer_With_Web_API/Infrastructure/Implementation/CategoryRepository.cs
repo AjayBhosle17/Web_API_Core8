@@ -2,6 +2,7 @@
 using Data.Entities;
 using Infrastructure.Interface;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,10 +14,13 @@ namespace Infrastructure.Implementation
     public class CategoryRepository : ICategoryRepository
     {
         CoreDbContext _context;
+        IMemoryCache _memoryCache;
 
-        public CategoryRepository(CoreDbContext context)
+        public CategoryRepository(CoreDbContext context , IMemoryCache memoryCache)
         {
             _context = context;
+            _memoryCache = memoryCache;
+
         }
 
         public async Task Create(Category category)
@@ -39,19 +43,24 @@ namespace Infrastructure.Implementation
 
         public async Task Edit(Category category)
         {
-
-            _context.Categories.Attach(category);
-
+           
             _context.Entry(category).State = EntityState.Modified;
-
             await _context.SaveChangesAsync();
-
         }
 
         public async Task<List<Category>> GetAll()
         {
-           
-            var categories = await _context.Categories.ToListAsync();
+           /* List<Category> categories = _memoryCache.Get("categories") as List<Category>;
+
+            if (categories == null) { 
+            
+                categories = await _context.Categories.ToListAsync();
+
+                _memoryCache.Set("categories",categories);
+            }*/
+
+            List<Category> categories = await _context.Categories.ToListAsync();
+            
 
             return categories;
         }

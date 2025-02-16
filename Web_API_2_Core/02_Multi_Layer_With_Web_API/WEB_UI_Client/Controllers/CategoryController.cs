@@ -138,12 +138,11 @@ namespace WEB_UI_Client.Controllers
             using (HttpClient client = new HttpClient())
             {
                 client.BaseAddress = new Uri(_apiUrl);
-                var json = JsonSerializer.Serialize(category);
-                var content = new StringContent(json, Encoding.UTF8, "application/json");
-                HttpResponseMessage response = client.PutAsync($"category/{category.Id}", content).Result;
+                var json = JsonSerializer.Serialize<Category>(category);
+                HttpResponseMessage request = client.PutAsync($"category/{category.Id}", new StringContent(json, Encoding.UTF8, "application/json")).Result;
 
 
-                if (response.IsSuccessStatusCode)
+                if (request.IsSuccessStatusCode)
                 {
                     return RedirectToAction("Index");
                 }
